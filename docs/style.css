@@ -4,9 +4,10 @@
     box-sizing: border-box;
     margin: 0;
 }
-
+/* #a1e0b5 */
+/* hsl(214, 33%, 95%) */
 :root {
-    --secondary-color: hsl(214, 33%, 95%);
+    --secondary-color: #a1e0b5;
     --text-color: hsl(0, 0%, 5%);
     --accent-color: hsl(210, 18%, 11%);
     --blue: hsl(212, 100%, 48%);
