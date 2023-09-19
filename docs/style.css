@@ -7,7 +7,7 @@
 /* #a1e0b5 */
 /* hsl(214, 33%, 95%) */
 :root {
-    --secondary-color: #a1e0b5;
+    --secondary-color: hsl(214, 33%, 95%);
     --text-color: hsl(0, 0%, 5%);
     --accent-color: hsl(210, 18%, 11%);
     --blue: hsl(212, 100%, 48%);
