@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list",
+  "name": "To_DO_Lists",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkWool/to-do-list.git"
+    "url": "git+https://hi-masd.github.io/To_DO_Lists"
   },
   "keywords": [],
-  "author": "DarkWool",
+  "author": "h",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DarkWool/to-do-list/issues"
+    "url": "https://hi-masd.github.io/To_DO_Lists/issues"
   },
-  "homepage": "https://github.com/DarkWool/to-do-list#readme",
+  "homepage": "https://hi-masd.github.io/To_DO_Lists#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^4.0.0",
